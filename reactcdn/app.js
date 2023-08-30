@@ -1,5 +1,8 @@
+import React from "react";
+import ReactDOM from "react-dom";
+
 (function(){
-    let heading = React.createElement("h1",{},"Hello World With React <script>alert()</script>");
+    let heading = React.createElement("h1",{},"Hello World With React");
     console.log(heading)
 
     let root = ReactDOM.createRoot(document.getElementById('root'));
@@ -11,7 +14,4 @@
 
     root = ReactDOM.createRoot(document.getElementById('root-2'));
     root.render(heading);
-
-
-
 })()

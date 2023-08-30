@@ -1,0 +1,32 @@
+{
+  "name": "react-training",
+  "version": "1.0.0",
+  "description": "React Training",
+  "main": "app.js",
+  "scripts": {
+    "test": "js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Subrahmanyam-Sistha/react-training.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "training"
+  ],
+  "author": "Subbu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subrahmanyam-Sistha/react-training/issues"
+  },
+  "homepage": "https://github.com/Subrahmanyam-Sistha/react-training#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
