@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import ReactDOM from "react-dom/client";
 
 (function(){
     let heading = React.createElement("h1",{},"Hello World With React");
